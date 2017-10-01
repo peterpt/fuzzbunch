@@ -18,6 +18,8 @@ Fuzzbuch is a shadowbrokers framework leak tool from N.S.A.
 ** Advices
 - It is advised to use a Virtual Machine windows XP/7 32bit image to install this git
 
+# Instalation Video
+- https://www.youtube.com/watch?v=GKIS9ynaSL4
 
 # Exploits
 
