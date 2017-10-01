@@ -22,7 +22,7 @@ Fuzzbuch is a shadowbrokers framework leak tool from N.S.A.
 - https://www.youtube.com/watch?v=GKIS9ynaSL4
 
 # How does Fuzzbunch Works
-- <img src="https://s1.postimg.org/1qcd8lukzj/exploit.png" width="50%"></img>
+- <img src="https://s1.postimg.org/4mk2z300jz/exp.jpg" width="50%"></img>
 
 # Exploits
 
