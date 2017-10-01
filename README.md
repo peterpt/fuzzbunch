@@ -5,7 +5,8 @@ Fuzzbuch is a shadowbrokers framework leak tool from N.S.A.
 - https://github.com/x0rz/EQGRP_Lost_in_Translation
 
 ** How to install
-- download the package from https://github.com/peterpt/fuzzbunch
+- download the package from https://github.com/peterpt/fuzzbunch/archive/fuzzbuch-master.zip
+- extract it to your hard disk
 - run install.bat on windows XP 32bit only or windows 7 32bit only
 
 ** Requirements
