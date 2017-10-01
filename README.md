@@ -71,6 +71,6 @@ Thanks
 - * misterch0c issues detailed info : https://github.com/misterch0c/shadowbroker/issues/22
 
 # Not very disclosed
-- Eventually the original shadowbrokers release could be release to an US intervention in Syria .
+- Eventually the original shadowbrokers release was release due to an US intervention in Syria .
 - * RT Link related to this framework exploits dump from shadowbrokers
 - https://www.rt.com/usa/384082-shadow-brokers-nsa-password-trump/
