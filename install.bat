@@ -17,8 +17,4 @@ mkdir d:\Logs\First
 
 cd ..
 
-xcopy * c:\fuzzbunch /e /i
-cd dependencies
-
-xcopy *.lnk "%USERPROFILE\Desktop"
 echo DONE
