@@ -17,4 +17,6 @@ mkdir d:\Logs\First
 
 cd ..
 
+xcopy * c:\fuzzbunch /e /i
+
 echo DONE
