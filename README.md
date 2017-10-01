@@ -8,6 +8,7 @@ Fuzzbuch is a shadowbrokers framework leak tool from N.S.A.
 - download the package from https://github.com/peterpt/fuzzbunch/archive/master.zip
 - extract it to your hard disk
 - run install.bat on windows XP 32bit only or windows 7 32bit only
+- copy the shortcuts : (fuzzbunch console , fuzzbunch java , fuzzbunch config) inside c:\fuzzbunch-master\dependencies to your desktop
 
 ** Requirements
 - User must have a d:\ hard disk drive partition
