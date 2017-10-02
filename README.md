@@ -4,7 +4,7 @@ Fuzzbuch is a shadowbrokers framework leak tool from N.S.A.
 ** Original Repository
 - https://github.com/x0rz/EQGRP_Lost_in_Translation
 
-** How to install
+# How to install
 - download the package from https://github.com/peterpt/fuzzbunch/archive/master.zip
 - extract it to your hard disk
 - run install.bat on windows XP 32bit only or windows 7 32bit only
@@ -12,10 +12,10 @@ Fuzzbuch is a shadowbrokers framework leak tool from N.S.A.
 
 - When running fuzzbunch java link , make sure you write on the logs path (D:\Logs\PROJECT_NAME)
 
-** Requirements
+# Requirements
 - User must have a d:\ hard disk drive partition
 
-** Advices
+# Advices
 - It is advised to use a Virtual Machine windows XP/7 32bit image to install this git
 
 # Instalation Video
@@ -68,7 +68,7 @@ Fuzzbuch is a shadowbrokers framework leak tool from N.S.A.
 - **DOPU** used to connect to machines exploited by ETERNALCHAMPIONS
 - **NAMEDPIPETOUCH** Utility to test for a predefined list of named pipes, mostly AV detection. User can add checks for custom named pipes.
 
-Thanks
+# Thanks to
 
 - * misterch0c for exploits info : https://github.com/misterch0c/shadowbroker/
 - * misterch0c issues detailed info : https://github.com/misterch0c/shadowbroker/issues/22
