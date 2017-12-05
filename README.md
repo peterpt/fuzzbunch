@@ -13,7 +13,14 @@ Fuzzbuch is a shadowbrokers framework leak tool from N.S.A.
 - When running fuzzbunch java link , make sure you write on the logs path (D:\Logs\PROJECT_NAME)
 
 # Requirements
-- User must have a d:\ hard disk drive partition
+- User must have a d:\ hard disk drive partition or user have to create a virtual folder and assign it as a drive
+
+- For those that do not have a D: drive :
+create a folder in your drive c: with this name "drived" , then open a command line (cmd) and run this command :
+(subst d: c:\drived)
+
+- Important : make sure you dont have a CD drive assigned to drive d: , in case you have then change its drive letter
+https://www.computerhope.com/issues/ch000038.htm
 
 # Advices
 - It is advised to use a Virtual Machine windows XP/7 32bit image to install this git
