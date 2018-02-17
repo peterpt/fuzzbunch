@@ -11,6 +11,7 @@ Fuzzbuch is a shadowbrokers framework leak tool from N.S.A.
 - copy the shortcuts : (fuzzbunch console , fuzzbunch java , fuzzbunch config) inside c:\fuzzbunch-master\dependencies to your desktop
 
 - When running fuzzbunch java link , make sure you write on the logs path (D:\Logs\PROJECT_NAME)
+- After loading fuzzbunch java link (gui) , write pc_prep on fuzzbunch console to prepare the payload
 
 # Requirements
 - User must have a d:\ hard disk drive partition or user have to create a virtual folder and assign it as a drive
