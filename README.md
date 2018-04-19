@@ -30,8 +30,8 @@ https://www.computerhope.com/issues/ch000038.htm
 - https://www.youtube.com/watch?v=GKIS9ynaSL4
 
 # How does Fuzzbunch Works
-- <img src="https://s1.postimg.org/4mk2z300jz/exp.jpg" width="50%"></img>
-- <img src="https://s1.postimg.org/7kn268yhlr/exp1.jpg" width="50%"></img>
+- <img src="https://s1.postimg.cc/4mk2z300jz/exp.jpg" width="50%"></img>
+- <img src="https://s1.postimg.cc/7kn268yhlr/exp1.jpg" width="50%"></img>
 
 # Exploits
 
