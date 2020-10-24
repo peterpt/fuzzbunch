@@ -1,5 +1,3 @@
-# Project moved to : https://gitlab.com/peterpt/fuzzbunch
-
 ## Fuzzbunch
 Fuzzbuch is a shadowbrokers framework leak tool from N.S.A.
 
